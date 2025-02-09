@@ -72,31 +72,31 @@
 
 **二、系统功能图**
 
-http://124.222.106.130:8081/xiaoyu/#/article/4
+http://111.231.74.123:8081/xiaoyu/#/article/4
 
 **三、预览图**
 
 后台管理员界面：
 
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718085790170989.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718085790170989.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718085806471898.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718085806471898.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718085847949454.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718085847949454.png)
 
 前台页面：
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718086029416634.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718086029416634.png)
 
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718086057645714.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718086057645714.png)
 
 
 **四、在线预览地址**
 
-http://124.222.106.130:8081/xiaoyu/#/article/4
+http://111.231.74.123:8081/xiaoyu/#/article/4
 
-[点此跳转](http://124.222.106.130:8081/xiaoyu/#/article/4)
+[点此跳转](http://111.231.74.123:8081/xiaoyu/#/article/4)
 
 管理员用户名密码：admin/123456
 
